@@ -1,0 +1,7 @@
+cartooner
+rembg
+Pillow
+streamlit
+numba
+numpy
+opencv-python-headless
